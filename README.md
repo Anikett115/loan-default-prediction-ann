@@ -9,6 +9,15 @@ This project develops a Loan Default Prediction System using an Artificial Neura
 The project includes extensive data cleaning, exploratory data analysis (EDA), feature engineering, categorical encoding, feature scaling, and ANN model development.
 
 ---
+## Key Achievements
+
+- Built an Artificial Neural Network (ANN) for loan default prediction
+- Performed extensive data cleaning and feature engineering
+- Processed 300,000+ loan records from the LendingClub dataset
+- Achieved 89% classification accuracy
+- Achieved 93% F1-Score for the default class
+- Conducted Exploratory Data Analysis (EDA) to identify risk factors
+---
 
 ## Business Problem
 
@@ -229,6 +238,19 @@ loan-default-prediction-ann/
 ├── LICENSE
 ```
 
+---
+## Skills Demonstrated
+
+- Data Cleaning
+- Feature Engineering
+- Exploratory Data Analysis
+- Data Visualization
+- Feature Scaling
+- Artificial Neural Networks
+- Classification Modeling
+- Model Evaluation
+- TensorFlow/Keras
+- Scikit-Learn
 ---
 
 ## Results
